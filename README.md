@@ -1,43 +1,46 @@
-# Hi 👋, I'm Andrews Gnanaselvin D
+<h1 align="center">Hi 👋, I'm Andrews Gnanaselvin D</h1>
 
-🎓 Computer Science and Engineering Student  
-💻 AI Enthusiast | Web Developer | Cloud Learner  
-🏆 Smart India Hackathon 2025 Finalist  
-📍 Tamil Nadu, India  
+<h3 align="center">
+AI Enthusiast • Web Developer • Cloud Learner
+</h3>
+
+<p align="center">
+🎓 Computer Science Engineering Student <br>
+🏆 Smart India Hackathon 2025 Finalist <br>
+📍 Tamil Nadu, India
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning AI, DevOps & Cloud Technologies
-- 💡 Interested in Web Development, Network Engineering & Machine Learning
+- 🌱 Currently learning **AI, DevOps & Cloud Technologies**
+- 💡 Interested in **Web Development, Network Engineering & Machine Learning**
 - 🔥 Passionate about solving real-world problems using technology
 - 🤝 Love teamwork, innovation, and hackathons
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-- Python
-- C
-- JavaScript
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🌐 Web Technologies
-- HTML
-- CSS
-- JavaScript
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Database
-- MySQL
-- Firebase
-- Supabase
+### 🗄️ Database & Backend
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### ☁️ Cloud & Tools
-- AWS
-- Microsoft Azure
-- Git & GitHub
-- SQLite
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -46,17 +49,17 @@
 ### 🌾 AI-Based Crop Recommendation System
 - AI-powered crop recommendation using NPK soil data and seasonal analysis
 - Voice input and multilingual support for farmers
-- Technologies: Python, ML, Flutter, Firebase
+- **Tech:** Python, ML, Flutter, Firebase
 
 ### 🎮 Gamified Learning Environment
 - Interactive learning platform with rewards and progress tracking
 - Integrated ML Kit and Supabase backend
-- Technologies: Python, HTML, CSS, JavaScript, Firebase
+- **Tech:** Python, HTML, CSS, JavaScript, Firebase
 
 ### 📂 Data Download Duplication Alert System
 - Duplicate file detection using MD5 & SHA-256 hashing
-- Improved storage efficiency and reduced redundant downloads
-- Technologies: Python, SQLite
+- Reduced redundant storage and improved efficiency
+- **Tech:** Python, SQLite
 
 ---
 
@@ -82,13 +85,27 @@
 ## 💼 Internship Experience
 
 ### SoftwareTech Solutions
-Web Development Intern – Feb 2024
+💻 Web Development Intern — Feb 2024
 
 ### ABM IT Support
-IT Intern – Aug 2024
+🖥️ IT Intern — Aug 2024
 
 ### Galwin Technology
-AI & Data Science Intern – May 2025
+🤖 AI & Data Science Intern — May 2025
+
+---
+
+## 📊 GitHub Stats
+
+![Andrews's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrewsdavid2005&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewsdavid2005&layout=compact)
+
+---
+
+## 🌐 Portfolio Website
+
+[Visit My Portfolio](https://andrewsdavid2005.github.io/portfolio/)
 
 ---
 
@@ -99,4 +116,6 @@ AI & Data Science Intern – May 2025
 
 ---
 
-⭐ *“Learn • Build • Innovate • Repeat”*
+<p align="center">
+⭐ <i>Learn • Build • Innovate • Repeat</i>
+</p>
