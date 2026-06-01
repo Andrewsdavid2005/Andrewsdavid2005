@@ -1,7 +1,7 @@
 # Hi 👋, I'm Andrews Gnanaselvin D
 
 <h3 align="center">
-🚀 AI Enthusiast | 🌐 Web Developer | 🌍 Network Engineering Learner
+🚀 AI Enthusiast | 🌐 Web Developer | 🌍 Network Engineer
 </h3>
 
 <p align="center">
