@@ -1,10 +1,6 @@
 # Hi there, I'm Andrews Gnanaselvin D 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+Enthusiast+%F0%9F%A4%96;Web+Developer+%F0%9F%8C%90;Network+Engineer+%F0%9F%94%8C" alt="Typing SVG" />
-</p>
-
-<p align="center">
   🎓 <b>Computer Science & Engineering Student</b> <br>
   🏆 <b>Smart India Hackathon 2025 Finalist</b> <br>
   🌟 <b>Taiwan Hackathon Certificate of Merit Holder</b> <br>
