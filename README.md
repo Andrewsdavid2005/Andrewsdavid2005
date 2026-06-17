@@ -1,25 +1,25 @@
-# Hi there, I'm Andrews Gnanaselvin D 👋
+# [cite_start]Hi there, I'm Andrews Gnanaselvin D 👋 [cite: 1]
 
 <p align="center">
-  🎓 <b>Computer Science & Engineering Student</b> <br>
-  🏆 <b>Smart India Hackathon 2025 Finalist</b> <br>
-  🌟 <b>Taiwan Hackathon Certificate of Merit Holder</b> <br>
+  [cite_start]🎓 <b>Computer Science & Engineering Student (2023–2027)</b> <br> [cite: 13, 18]
+  [cite_start]🏆 <b>Smart India Hackathon Finalist</b> <br> [cite: 43]
+  [cite_start]🌟 <b>Taiwan Hackathon Certificate of Merit Holder</b> <br> [cite: 44]
   📍 Tamil Nadu, India
 </p>
 
 <p align="center">
-  <a href="https://andrewsdavid2005.github.io/portfolio/"><img src="https://img.shields.io/badge/🌐_Explore_My_Portfolio-000?style=for-the-badge" alt="Portfolio"/></a>
+  [cite_start]<a href="https://andrewsdavid2005.github.io/portfolio/"><img src="https://img.shields.io/badge/🌐_Explore_My_Portfolio-000?style=for-the-badge" alt="Portfolio"/></a> [cite: 6]
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 **Education:** Pursuing B.E. Computer Science & Engineering at Karpagam Institute of Technology.
-* 🌱 **Focus Areas:** Deep diving into Artificial Intelligence, Cloud Computing, DevOps, and Advanced Network Technologies.
-* 💡 **Mission:** Passionate about architecting innovative software solutions to solve pressing, real-world problems.
-* 🤝 **Mindset:** Strong believer in cross-functional teamwork, adaptive leadership, and continuous learning.
-* 🔥 **Drive:** Active participant in hackathons, technical events, and open-source innovation challenges.
+* 🎓 **Education:** Pursuing B.E. [cite_start]Computer Science & Engineering at Karpagam Institute of Technology, Coimbatore (CGPA: 7.6). [cite: 12, 13]
+* [cite_start]🌱 **Focus Areas:** Deep diving into Network Engineering, Web Development, Cloud Infrastructure, and Artificial Intelligence. [cite: 8, 22]
+* [cite_start]🤖 **Current Role:** Gaining versatile industry experience as an **AI Trainer** while mastering emerging tech stack. 
+* [cite_start]💡 **Mission:** Passionate about building robust, innovative, and high-impact digital solutions to tackle real-world challenges. [cite: 10]
+* [cite_start]🤝 **Mindset:** Strong advocate for agile teamwork, logic-driven problem-solving, and cross-functional leadership. [cite: 25]
 
 ---
 
@@ -27,70 +27,70 @@
 
 ### 💻 Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  [cite_start]<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> [cite: 17]
+  [cite_start]<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> [cite: 17]
+  [cite_start]<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /> [cite: 17]
+  [cite_start]<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /> [cite: 17]
 </p>
 
 ### 🌐 Web & Mobile Development
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  [cite_start]<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /> [cite: 20]
+  [cite_start]<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /> [cite: 20]
+  [cite_start]<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" /> [cite: 20]
+  [cite_start]<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> [cite: 20]
 </p>
 
 ### 🗄️ Backend & Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  [cite_start]<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> [cite: 21]
+  [cite_start]<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /> [cite: 21]
+  [cite_start]<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /> [cite: 21]
+  [cite_start]<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /> [cite: 21]
 </p>
 
 ### ☁️ DevOps & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  [cite_start]<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /> [cite: 22]
+  [cite_start]<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" /> [cite: 22]
+  [cite_start]<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> [cite: 24]
+  [cite_start]<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> [cite: 24]
 </p>
 
-### 📡 Networking & Infrastructure
-* 🧮 **Routing & Switching:** IP Addressing, Network Architectures, Protocols.
-* 🛡️ **Security:** Firewall Core Concepts & System Hardening.
-* 🛠️ **Simulation & OS:** Cisco Packet Tracer, Linux/Unix Environments, Troubleshooting.
+### [cite_start]📡 Networking & Infrastructure [cite: 23]
+* [cite_start]🧮 **Routing & Architecture:** IP Routing, Core Network Protocols, Systems Design. [cite: 23]
+* [cite_start]🛡️ **Network Security:** Firewalls, Device Configuration & Initial Hardening. [cite: 23, 32]
+* [cite_start]🛠️ **Simulation & OS:** Cisco Packet Tracer, Linux/Windows Operating Systems. [cite: 23, 24]
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌾 AI-Based Crop Recommendation System (SIH '25)
-* Developed a machine learning platform using soil parameters (N, P, K, pH) and seasonal metadata to maximize crop yield.
-* Engineered an **offline-first functionality** tailored for rural environments with spotty internet connectivity.
-* *Tech Stack:* `Python`, `Scikit-Learn`, `Flutter`, `Firebase`
+### [cite_start]🌾 AI-Based Crop Recommendation for Farmers (SIH Project) [cite: 34]
+* [cite_start]Developed an AI-powered system that analyzes critical soil nutrients (NPK, pH) and seasonal metadata to recommend high-yielding, profitable crops. [cite: 35]
+* [cite_start]Engineered highly reliable **offline-first functionality** to ensure farmers can seamlessly access structural agricultural data without an internet connection. [cite: 36]
+* [cite_start]*Tech Stack:* `Python`, `Machine Learning (Soil Analysis)`, `Flutter`, `Firebase` [cite: 36]
 
-### 🎮 Gamified Learning Environment
-* Created an immersive educational portal complete with custom progression metrics, streaks, and award milestones.
-* Infused intelligent edge AI features leveraging **Google ML Kit**.
-* *Tech Stack:* `Flutter`, `Dart`, `Supabase`, `Gradle`
+### [cite_start]🎮 Gamified Learning Environment [cite: 37]
+* [cite_start]Built an interactive gamified learning platform integrating user milestones, rewards, and structured learning progress tracking. 
+* [cite_start]Upgraded the system architecture to **Android SDK 36 (Kotlin DSL)** to leverage modern API performance and integrated on-device edge AI with **Google ML Kit**. [cite: 38, 39]
+* [cite_start]*Tech Stack:* `Flutter & Dart`, `Supabase (Real-Time Auth & Database)`, `Google ML Kit`, `Gradle` [cite: 38, 39]
 
-### 📂 Data Download Duplication Alert System
-* Built an automated file integrity monitor to detect and flag identical background downloads.
-* Reduced unnecessary storage footprints by computing cryptographic hashes via **MD5** and **SHA-256**.
-* *Tech Stack:* `Python`, `SQLite`
+### [cite_start]📂 Data Download Duplication Alert System [cite: 40]
+* [cite_start]Built an automated local file integrity monitor designed to optimize disk space by detecting background duplication tasks. [cite: 41]
+* [cite_start]Implemented cryptographic file verification strategies using **MD5** and **SHA-256** hashing algorithms to prevent redundant tracking and storage waste. [cite: 41]
+* [cite_start]*Tech Stack:* `Python`, `SQLite`, `MD5`, `SHA-256` [cite: 41]
 
 ---
 
 ## 💼 Internship Experience
 
-* 🤖 **Galwin Technology** | *Machine Learning Intern* | *May 2025*
-  * Spearheaded exploratory data analysis (EDA), automated data preprocessing pipelines, and trained classical predictive ML architectures.
-* 🌐 **ABM IT Support** | *Web Development Intern* | *Aug 2024*
-  * Refactored client-facing interfaces to be fully responsive, improving structural SEO footprints and cross-device performance.
-* 💻 **SoftwareTech Solutions** | *Program Development Intern* | *Feb 2024*
-  * Conducted unit and module level testing, identifying logic bugs and enhancing software runtime debugging paradigms.
+* 🤖 **Galwin Technology** | [cite_start]*Machine Learning Intern* (May 2025) [cite: 51, 55]
+  * [cite_start]Gained comprehensive hands-on exposure to deploying fundamental machine learning models, managing automated data preprocessing pipelines, and running structured analytics. [cite: 52]
+* 🌐 **ABM IT Support** | [cite_start]*Web Development Intern* (Aug 2024) [cite: 49, 54]
+  * [cite_start]Handled responsive website designs and user interface components to scale up UI/UX readability and site layouts. [cite: 50]
+* 💻 **SoftwareTech Solutions** | [cite_start]*Program Development Intern* (Feb 2024) [cite: 47, 53]
+  * [cite_start]Assisted in developing, building, and unit testing distinct software modules using structured object-oriented paradigms. [cite: 48]
 
 ---
 
@@ -101,18 +101,21 @@
     <td width="50%" valign="top">
       <h3>🏆 Accolades</h3>
       <ul>
-        <li><b>Smart India Hackathon 2025</b> – National Finalist</li>
-        <li><b>Taiwan Hackathon</b> – Certificate of Merit (Excellence)</li>
-        <li><b>International Conference Presenter</b> – KIT</li>
+        <li><b>Smart India Hackathon</b> – National Finalist Certificate [cite: 43]</li>
+        <li><b>Taiwan Hackathon</b> – Certificate of Merit (Excellence) [cite: 44]</li>
+        <li><b>International Conference Participant</b> – KIT [cite: 45]</li>
+        <li><b>NSS Group Member</b> – Community Support Camp [cite: 25]</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>📜 Certifications</h3>
       <ul>
-        <li>Microsoft Azure Fundamentals (AZ-900)</li>
-        <li>AWS Cloud Foundations</li>
-        <li>CISCO Networking Essentials & Troubleshooting</li>
-        <li>Deloitte Data Analytics Simulation</li>
+        <li><b>Microsoft Azure Fundamentals</b> (AZ-900) [cite: 27]</li>
+        <li><b>AWS Cloud Foundations</b> [cite: 28]</li>
+        <li><b>CISCO</b> – Networking Essentials, Addressing & Troubleshooting [cite: 32]</li>
+        <li><b>Simplilearn</b> – Machine Learning [cite: 29]</li>
+        <li><b>Deloitte</b> – Data Analytics Simulation [cite: 30]</li>
+        <li><b>NPTEL</b> – Software Testing [cite: 31]</li>
       </ul>
     </td>
   </tr>
@@ -136,16 +139,12 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:andrewsdavidnov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Andrewsdavid2005"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://andrewsdavid2005.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
+  [cite_start]<a href="https://linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> [cite: 4]
+  [cite_start]<a href="mailto:andrewsdavidnov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> [cite: 3]
+  [cite_start]<a href="https://github.com/Andrewsdavid2005"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> [cite: 5]
+  [cite_start]<a href="https://andrewsdavid2005.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a> [cite: 6]
 </p>
 
 <p align="center">
   <code>Learn</code> • <code>Build</code> • <code>Innovate</code> • <code>Repeat</code>
-</p>
-
-<p align="center">
-  ⭐️ Feel free to star my repositories if you find my work useful!
 </p>
