@@ -4,7 +4,7 @@
   <b>Computer Science & Engineering Student</b> <br>
   <b>Smart India Hackathon Finalist</b> <br>
   <b>Taiwan Hackathon Certificate of Merit Holder</b> <br>
-   Tamil Nadu, India
+   Tamil Nadu, Coimbatore, India
 </p>
 
 <p align="center">
@@ -127,15 +127,14 @@
 
 ---
 
-## Let's Chat! Ask me about:
+## Connect & Brainstorm:
 
 * **Flutter & Dart:** How to build smooth, cross-platform mobile experiences.
 * **AI on the Edge:** Integrating Google ML Kit or custom Python models into mobile apps.
 * **Networking:** Subnetting, routing protocols, and Cisco Packet Tracer simulations.
 * **Hackathons:** Surviving 36-hour coding sprints and pitching to judges (ask me about SIH!).
 * **Mentoring:** My experience working as an AI Trainer and leading student tech groups.
-
-**[Drop me an email!](mailto:andrewsdavidnov@gmail.com)** I'm always open to discussing new tech, open-source collaborations, or freelance opportunities.
+---
 
 ## Connect With Me
 
