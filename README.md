@@ -104,7 +104,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3> Accolades</h3>
+      <h3> Achievements</h3>
       <ul>
         <li><b>Smart India Hackathon 2025</b> – Finalist Certificate</li>
         <li><b>Taiwan Hackathon</b> – Certificate of Merit (Excellence)</li>
