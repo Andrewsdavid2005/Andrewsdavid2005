@@ -127,18 +127,15 @@
 
 ---
 
-## GitHub Statistics
+## Let's Chat! Ask me about:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andrewsdavid2005&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrewsdavid2005&theme=tokyonight" width="48%" />
-</p>
+* **Flutter & Dart:** How to build smooth, cross-platform mobile experiences.
+* **AI on the Edge:** Integrating Google ML Kit or custom Python models into mobile apps.
+* **Networking:** Subnetting, routing protocols, and Cisco Packet Tracer simulations.
+* **Hackathons:** Surviving 36-hour coding sprints and pitching to judges (ask me about SIH!).
+* **Mentoring:** My experience working as an AI Trainer and leading student tech groups.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewsdavid2005&layout=compact&theme=tokyonight" width="55%" />
-</p>
-
----
+**[Drop me an email!](mailto:andrewsdavidnov@gmail.com)** I'm always open to discussing new tech, open-source collaborations, or freelance opportunities.
 
 ## Connect With Me
 
