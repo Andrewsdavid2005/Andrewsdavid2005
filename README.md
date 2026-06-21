@@ -132,7 +132,7 @@
 * **Flutter & Dart:** How to build smooth, cross-platform mobile experiences.
 * **AI on the Edge:** Integrating Google ML Kit or custom Python models into mobile apps.
 * **Networking:** Subnetting, routing protocols, and Cisco Packet Tracer simulations.
-* **Hackathons:** Surviving 36-hour coding sprints and pitching to judges (ask me about SIH!).
+* **Hackathons:** Surviving 36-hour coding sprints and pitching to judges.
 * **Mentoring:** My experience working as an AI Trainer and leading student tech groups.
 ---
 
