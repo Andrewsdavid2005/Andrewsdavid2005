@@ -13,14 +13,13 @@
 
 ---
 
-##  About Me
+## About Me
 
-* **Education:** Pursuing B.E. Computer Science & Engineering at Karpagam Institute of Technology, Coimbatore with a CGPA of 7.6. Completed Higher Secondary at SFS Matriculation Higher Secondary School, Pudukkottai with 70%.
-* **Focus Areas:** Deep diving into Network Engineering, Web Development, Cloud Infrastructure, and Artificial Intelligence.
-* **Current Role:** Gaining versatile industry experience as an **AI Trainer** while mastering emerging tech stacks.
-* **Mission:** Passionate about contributing to innovative, high-impact projects.
-* **Mindset:** Strong advocate for agile teamwork, logic-driven problem-solving, and cross-functional leadership.
-
+* **Education & Academic Foundation:** Pursuing a Bachelor of Engineering in Computer Science & Engineering at Karpagam Institute of Technology, Coimbatore (Class of 2027 | Current CGPA: 7.6/10). Completed Higher Secondary education at SFS Matriculation Higher Secondary School, Pudukkottai with a score of 70%.
+* **Core Specializations:** Actively mastering multi-disciplinary domains spanning Network Engineering, Full-Stack Web Development, Cloud Infrastructure, and Applied Artificial Intelligence.
+* **Professional Footprint:** Gaining valuable industry perspective as an **AI Trainer**, leveraging practical competencies from technical internships across Machine Learning (Galwin Technology), Web Development (ABM IT Support), and Program Development (SoftwareTech Solutions).
+* **Engineering Philosophy:** Driven to engineer robust, cross-platform, and high-impact software solutions—such as offline-first architectures for Smart India Hackathon initiatives—to solve complex, real-world constraints.
+* **Leadership & Collaboration:** A logic-driven problem solver and active NSS Camp Member who thrives in agile environments, championing group discussion, technical execution, and competitive hackathon performance.
 ---
 
 ## Technical Skills
