@@ -15,11 +15,11 @@
 
 ## About Me
 
-* **Education & Academic Foundation:** Pursuing a Bachelor of Engineering in Computer Science & Engineering at Karpagam Institute of Technology, Coimbatore (Class of 2027 | Current CGPA: 7.6/10). Completed Higher Secondary education at SFS Matriculation Higher Secondary School, Pudukkottai with a score of 70%.
-* **Core Specializations:** Actively mastering multi-disciplinary domains spanning Network Engineering, Full-Stack Web Development, Cloud Infrastructure, and Applied Artificial Intelligence.
-* **Professional Footprint:** Gaining valuable industry perspective as an **AI Trainer**, leveraging practical competencies from technical internships across Machine Learning (Galwin Technology), Web Development (ABM IT Support), and Program Development (SoftwareTech Solutions).
-* **Engineering Philosophy:** Driven to engineer robust, cross-platform, and high-impact software solutions—such as offline-first architectures for Smart India Hackathon initiatives—to solve complex, real-world constraints.
-* **Leadership & Collaboration:** A logic-driven problem solver and active NSS Camp Member who thrives in agile environments, championing group discussion, technical execution, and competitive hackathon performance.
+* **Education:** Pursuing a B.E. in Computer Science & Engineering at Karpagam Institute of Technology, Coimbatore (Class of 2027 | CGPA: 7.6/10). Completed Higher Secondary education at SFS Matriculation with 70%.
+* **Core Focus:** Deepening expertise across Network Engineering, Full-Stack Web Development, Cloud Infrastructure, and Applied AI.
+* **Experience:** Working as an **AI Trainer** and leveraging practical engineering skills gained from technical internships in Machine Learning, Web, and Program Development.
+* **Philosophy:** Dedicated to building robust, cross-platform, and high-impact digital solutions designed to solve real-world constraints.
+* **Mindset:** A logic-driven problem solver and active NSS Camp Member who thrives in agile teams and competitive hackathon environments.
 ---
 
 ## Technical Skills
