@@ -1,10 +1,10 @@
-# Hi there, I'm Andrews Gnanaselvin D 👋
+# Hi there, I'm Andrews Gnanaselvin D
 
 <p align="center">
-  🎓 <b>Computer Science & Engineering Student</b> <br>
-  🏆 <b>Smart India Hackathon Finalist</b> <br>
-  🌟 <b>Taiwan Hackathon Certificate of Merit Holder</b> <br>
-  📍 Tamil Nadu, Coimbatore, India
+  <b>Computer Science & Engineering Student</b> <br>
+  <b>Smart India Hackathon Finalist</b> <br>
+  <b>Taiwan Hackathon Certificate of Merit Holder</b> <br>
+  Tamil Nadu, Coimbatore, India
 </p>
 
 <p align="center">
@@ -13,13 +13,13 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-* 🎓 **Education:** Pursuing a B.E. in Computer Science & Engineering at Karpagam Institute of Technology, Coimbatore (Class of 2027 | CGPA: 7.6/10). Completed Higher Secondary education at SFS Matriculation with 70%.
-* 🌱 **Core Focus:** Deepening expertise across Network Engineering, Full-Stack Web Development, Cloud Infrastructure, and Applied AI.
-* 🤖 **Experience:** Working as an **AI Trainer** and leveraging practical engineering skills gained from technical internships in Machine Learning, Web, and Program Development.
-* 💡 **Philosophy:** Dedicated to building robust, cross-platform, and high-impact digital solutions designed to solve real-world constraints.
-* 🤝 **Mindset:** A logic-driven problem solver and active NSS Camp Member who thrives in agile teams and competitive hackathon environments.
+* **Education:** Pursuing a B.E. in Computer Science & Engineering at Karpagam Institute of Technology, Coimbatore (Class of 2027 | CGPA: 7.6/10). Completed Higher Secondary education at SFS Matriculation with 70%.
+* **Core Focus:** Deepening expertise across Network Engineering, Full-Stack Web Development, Cloud Infrastructure, and Applied AI.
+* **Experience:** Working as an **AI Trainer** and leveraging practical engineering skills gained from technical internships in Machine Learning, Web, and Program Development.
+* **Philosophy:** Dedicated to building robust, cross-platform, and high-impact digital solutions designed to solve real-world constraints.
+* **Mindset:** A logic-driven problem solver and active NSS Camp Member who thrives in agile teams and competitive hackathon environments.
 
 ---
 
