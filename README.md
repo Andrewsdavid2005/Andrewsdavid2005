@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://andrewsdavid2005.github.io/portfolio/"><img src="https://img.shields.io/badge/🌐_Explore_My_Portfolio-000?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://andrewsdavid2005.github.io/portfolio/"><img src="https://img.shields.io/badge/_Explore_My_Portfolio-000?style=for-the-badge" alt="Portfolio"/></a>
 </p>
 
 ---
@@ -23,9 +23,9 @@
 
 ---
 
-## 🛠️ Technical Competencies
+## Technical Competencies
 
-### 💻 Core Programming Languages
+### Core Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </p>
 
-### 🌐 Web, Mobile & Interface Design
+### Web, Mobile & Interface Design
 <p align="left">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
-### 🗃️ Architecture, Databases & Backend
+### Architecture, Databases & Backend
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
@@ -52,7 +52,7 @@
 </p>
 * **Key Frameworks & Concepts:** RESTful APIs, On-Device Edge AI & Google ML Kit Integration.
 
-### ☁️ Infrastructure & DevOps Pipeline
+### Infrastructure & DevOps Pipeline
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
@@ -61,33 +61,33 @@
 </p>
 * **System Design Concepts:** Serverless Architecture, Event-Driven Services, CI/CD Workflows, Cloud Deployment (AWS Lambda, EC2, S3).
 
-### 📡 Networking Foundations & Tooling
+### Networking Foundations & Tooling
 * **Routing & Architecture:** IP Routing, Core Network Protocols & Enterprise Systems Design.
 * **Infrastructure Security:** Enterprise Firewalls, Device Configuration & Initial System Hardening.
 * **Simulation & Environments:** Cisco Packet Tracer, Linux/Windows Ecosystems, VS Code Configuration.
 
 ---
 
-## 🚀 Featured Engineering Projects
+## Featured Engineering Projects
 
-### 🌾 AI-Based Crop Recommendation System (SIH Project)
+### AI-Based Crop Recommendation System (SIH Project)
 * Engineered an intelligent, automated system analyzing vital soil chemistry metrics (NPK, pH levels) alongside seasonal data parameters to forecast maximum crop yields.
 * Implemented reliable **offline-first framework** dependencies, enabling farmers to read and update local structured agricultural records without network access.
 * *Tech Stack:* `Python`, `Machine Learning (Soil Analysis)`, `Flutter`, `Firebase`
 
-### 🎮 Gamified Interactive Learning Environment
+### Gamified Interactive Learning Environment
 * Built a cross-platform gamified application utilizing user milestone targets, dynamic incentives, and modular student progress tracking.
 * Refactored system foundations up to **Android SDK 36** standards and deployed on-device edge AI functionalities using **Google ML Kit**.
 * *Tech Stack:* `Flutter & Dart`, `Supabase (Real-Time Auth & Database)`, `Google ML Kit`, `Gradle (Kotlin DSL)`
 
-### 📂 Cryptographic Data Duplication Monitor
+### Cryptographic Data Duplication Monitor
 * Developed an automated background system designed to actively identify redundant tracking tasks and optimize local storage footprint.
 * Integrated rigorous cryptographic asset hashing logic employing **MD5** and **SHA-256** checksum models to guarantee file architecture integrity.
 * *Tech Stack:* `Python`, `SQLite`, `MD5`, `SHA-256`
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 * **Galwin Technology** | *Machine Learning Intern* | **May 2025**
   * Built functional hands-on machine learning architectures, automated internal data parsing utilities, and evaluated target statistical evaluation metrics.
@@ -98,12 +98,12 @@
 
 ---
 
-## 🏆 Accomplishments & Global Credentials
+## Accomplishments & Global Credentials
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏆 Accolades & Merits</h3>
+      <h3> Accolades & Merits</h3>
       <ul>
         <li><b>Smart India Hackathon 2025</b><br>↳ National Finalist Selection</li>
         <li><b>Taiwan Hackathon</b><br>↳ Certificate of Merit for Project Excellence</li>
@@ -111,7 +111,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>📜 Technical Certifications</h3>
+      <h3> Technical Certifications</h3>
       <ul>
         <li><b>Microsoft Certified:</b> Azure Fundamentals (AZ-900)</li>
         <li><b>Amazon Web Services:</b> AWS Cloud Foundations</li>
@@ -126,19 +126,19 @@
 
 ---
 
-## 💡 Let's Connect & Brainstorm
+## Let's Connect & Brainstorm
 
 I welcome opportunities to participate in professional engineering projects, open-source architectures, or technical challenges. Reach out if you'd like to talk about:
 
-* 📱 **Flutter Frameworks:** Designing natively performance-optimized mobile logic and structural application patterns.
-* 🤖 **Edge Machine Learning:** Incorporating lightweight predictive processing into responsive user applications.
-* 🌐 **System Networks:** Troubleshooting core routing problems, implementing network firewalls, and mapping topologies.
-* 🏆 **Hackathon Sprints:** Orchestrating strict 36-hour minimum viable product goals under fast-paced parameters.
+* **Flutter Frameworks:** Designing natively performance-optimized mobile logic and structural application patterns.
+* **Edge Machine Learning:** Incorporating lightweight predictive processing into responsive user applications.
+* **System Networks:** Troubleshooting core routing problems, implementing network firewalls, and mapping topologies.
+* **Hackathon Sprints:** Orchestrating strict 36-hour minimum viable product goals under fast-paced parameters.
 * 🎓 **Technical Mentoring:** Leveraging my role as an AI Instructor to organize technical groups or workshops.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
