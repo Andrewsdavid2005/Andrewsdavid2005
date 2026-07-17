@@ -41,7 +41,7 @@ Computer Science and Engineering student with specializing in **Network Engineer
 ## 🛠️ Skills
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,java,dart,mysql,sqlite,html,css,js,flutter,figma,aws,azure,git,github,firebase,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,java,dart,mysql,html,css,js,flutter,firebase,supabase,aws,azure,git,github,figma,linux&theme=dark" />
 </div>
 
 <br>
