@@ -75,6 +75,7 @@ Computer Science and Engineering student with specializing in **Network Engineer
 </div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
+
 ## Featured Projects
 
 <table>
