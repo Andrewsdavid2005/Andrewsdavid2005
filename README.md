@@ -71,10 +71,9 @@ Computer Science and Engineering student with specializing in **Network Engineer
 <br>
 <img src="https://img.shields.io/badge/5-Software_Testing_%E2%80%93_NPTEL-E34F26?style=for-the-badge&logo=e-learning&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/6-Networking_%2D_Essentials%2C_Addressing_%26_Troubleshooting_%E2%80%93_CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/6-CISCO_Networking_Essentials_%26_Troubleshooting-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
-
 
 ## Featured Projects
 
