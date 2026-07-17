@@ -133,29 +133,6 @@ Open to engineering projects, open-source work, and hackathon sprints — reach 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Andrewsdavid2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewsdavid2005&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrewsdavid2005&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Andrewsdavid2005&theme=tokyo-night&hide_border=true"/>
-</div>
-
-<!--
-  Snake contribution animation — requires a one-time GitHub Actions setup.
-  See the note below the footer for setup steps.
--->
-<div align="center">
-<img src="https://raw.githubusercontent.com/Andrewsdavid2005/Andrewsdavid2005/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:0F2027,100:00C4CC&height=120&section=footer"/>
 
 <div align="center">
