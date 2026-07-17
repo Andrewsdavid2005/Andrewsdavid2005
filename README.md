@@ -1,4 +1,4 @@
-# Hi there, I'm Andrews Gnanaselvin D
+# Hi there, I'm Andrews Gnanaselvin D 👋
 
 <p align="center">
   <b>Computer Science & Engineering Student</b> <br>
@@ -11,14 +11,20 @@
   <a href="https://andrewsdavid2005.github.io/portfolio/"><img src="https://img.shields.io/badge/_Explore_My_Portfolio-000?style=for-the-badge" alt="Portfolio"/></a>
 </p>
 
+<p align="center">
+  📱 +91 7010809105 &nbsp;|&nbsp;
+  📧 andrewsdavidnov@gmail.com
+</p>
+
 ---
 
 ## About Me
 
-* **Education:** Pursuing a B.E. in Computer Science & Engineering at Karpagam Institute of Technology, Coimbatore (Class of 2027 | CGPA: 7.6/10). Completed Higher Secondary education at SFS Matriculation with 70%.
+Computer Science and Engineering student specializing in **Network Engineering, Cloud Computing, and Full-Stack Development**. Skilled in configuring secure network environments, managing cloud databases, and deploying AI-integrated applications. Proven track record as a **Smart India Hackathon Finalist** and **AI Trainer**, combining technical expertise with hands-on execution to build innovative, real-world systems.
+
+* **Education:** Pursuing a B.E. in Computer Science & Engineering at Karpagam Institute of Technology, Coimbatore (2023–2027 | CGPA: 7.69/10). Completed Higher Secondary education at SFS Matriculation Higher Secondary School, Pudukkottai with 70%.
 * **Core Focus:** Deepening expertise across Network Engineering, Full-Stack Web Development, Cloud Infrastructure, and Applied AI.
 * **Experience:** Working as an **AI Trainer** and leveraging practical engineering skills gained from technical internships in Machine Learning, Web, and Program Development.
-* **Philosophy:** Dedicated to building robust, cross-platform, and high-impact digital solutions designed to solve real-world constraints.
 * **Mindset:** A logic-driven problem solver and active NSS Camp Member who thrives in agile teams and competitive hackathon environments.
 
 ---
@@ -59,7 +65,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
-* **System Design Concepts:** Serverless Architecture, Event-Driven Services, CI/CD Workflows, Cloud Deployment (AWS Lambda, EC2, S3).
+* **System Design Concepts:** Serverless Architecture (AWS Lambda, EC2, S3), Event-Driven Services, CI/CD Concepts, Cloud Deployment.
 
 ### Networking Foundations & Tooling
 * **Routing & Architecture:** IP Routing, Core Network Protocols & Enterprise Systems Design.
@@ -70,19 +76,19 @@
 
 ## Featured Engineering Projects
 
-### AI-Based Crop Recommendation System (SIH Project)
-* Engineered an intelligent, automated system analyzing vital soil chemistry metrics (NPK, pH levels) alongside seasonal data parameters to forecast maximum crop yields.
-* Implemented reliable **offline-first framework** dependencies, enabling farmers to read and update local structured agricultural records without network access.
-* *Tech Stack:* `Python`, `Machine Learning (Soil Analysis)`, `Flutter`, `Firebase`
+### AI-Based Crop Recommendation for Farmers (SIH)
+* Developed an AI-powered system that analyzes soil nutrients (NPK, pH) and seasonal data to recommend the most profitable and high-yielding crops for farmers.
+* Engineered offline-first functionality to ensure farmers can access agricultural insights without an internet connection.
+* *Tech Stack:* `Python`, `Machine Learning (Soil NPK/pH Analysis)`, `Flutter`, `Firebase`
 
-### Gamified Interactive Learning Environment
-* Built a cross-platform gamified application utilizing user milestone targets, dynamic incentives, and modular student progress tracking.
-* Refactored system foundations up to **Android SDK 36** standards and deployed on-device edge AI functionalities using **Google ML Kit**.
-* *Tech Stack:* `Flutter & Dart`, `Supabase (Real-Time Auth & Database)`, `Google ML Kit`, `Gradle (Kotlin DSL)`
+### Gamified Learning Environment
+* Built a gamified platform with rewards and progress tracking; upgraded the project to **Android SDK 36**.
+* Integrated **Google ML Kit** and a **Supabase** backend for real-time authentication and data management.
+* *Tech Stack:* `Flutter & Dart`, `Supabase (Auth & Database)`, `Google ML Kit`, `Gradle (Kotlin DSL)`
 
-### Cryptographic Data Duplication Monitor
-* Developed an automated background system designed to actively identify redundant tracking tasks and optimize local storage footprint.
-* Integrated rigorous cryptographic asset hashing logic employing **MD5** and **SHA-256** checksum models to guarantee file architecture integrity.
+### Data Download Duplication Alert System
+* Developed a system to identify and manage duplicate file downloads efficiently.
+* Implemented **MD5 & SHA-256** hashing algorithms to accurately detect duplicate files and prevent redundant storage.
 * *Tech Stack:* `Python`, `SQLite`, `MD5`, `SHA-256`
 
 ---
@@ -90,11 +96,11 @@
 ## Professional Experience
 
 * **Galwin Technology** | *Machine Learning Intern* | **May 2025**
-  * Built functional hands-on machine learning architectures, automated internal data parsing utilities, and evaluated target statistical evaluation metrics.
+  * Gained hands-on experience in machine learning models and data analysis.
 * **ABM IT Support** | *Web Development Intern* | **Aug 2024**
-  * Structured cleanly responsive client-facing web views, resolving critical interface layouts and improving general navigation flow.
+  * Worked on responsive web pages and improved user interface functionality.
 * **SoftwareTech Solutions** | *Program Development Intern* | **Feb 2024**
-  * Contributed codebase updates, feature additions, and individual module validations using object-oriented application design patterns.
+  * Assisted in developing and testing software modules using programming concepts.
 
 ---
 
@@ -103,22 +109,22 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3> Accolades & Merits</h3>
+      <h3>🏆 Accolades & Merits</h3>
       <ul>
-        <li><b>Smart India Hackathon 2025</b><br>↳ National Finalist Selection</li>
-        <li><b>Taiwan Hackathon</b><br>↳ Certificate of Merit for Project Excellence</li>
+        <li><b>Smart India Hackathon 2025</b><br>↳ National Finalist Certificate</li>
+        <li><b>Taiwan Hackathon</b><br>↳ Certificate of Merit for Excellence</li>
         <li><b>International Conference Participant</b><br>↳ Scientific Presentation at KIT</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3> Technical Certifications</h3>
+      <h3>📜 Technical Certifications</h3>
       <ul>
         <li><b>Microsoft Certified:</b> Azure Fundamentals (AZ-900)</li>
         <li><b>Amazon Web Services:</b> AWS Cloud Foundations</li>
-        <li><b>CISCO Networks:</b> Routing, Addressing, Troubleshooting, and Initial Hardening</li>
-        <li><b>Simplilearn:</b> Machine Learning Foundations</li>
-        <li><b>Deloitte:</b> Data Analytics Virtual Simulation</li>
-        <li><b>NPTEL:</b> Software Testing Methodologies</li>
+        <li><b>CISCO:</b> Networking Essentials, Basics, Addressing & Troubleshooting, Devices & Initial Configuration</li>
+        <li><b>Simplilearn:</b> Machine Learning</li>
+        <li><b>Deloitte:</b> Data Analytics Simulation</li>
+        <li><b>NPTEL:</b> Software Testing</li>
       </ul>
     </td>
   </tr>
