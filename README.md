@@ -60,17 +60,12 @@ Computer Science and Engineering student with specializing in **Network Engineer
 
 ## Certifications
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals_(AZ--900)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-Cloud_Foundations-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Simplilearn-Machine_Learning-1F8ACB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deloitte-Data_Analytics_Simulation-86BC25?style=flat-square"/>
-<img src="https://img.shields.io/badge/NPTEL-Software_Testing-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/CISCO-Networking_Essentials_%26_Troubleshooting-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-
-</div>
-
+1. **Microsoft Azure Fundamentals (AZ-900)** — Microsoft Certified
+2. **AWS Cloud Foundations** — Amazon Web Services
+3. **Machine Learning** — Simplilearn
+4. **Data Analytics Simulation** — Deloitte
+5. **Software Testing** — NPTEL
+6. **Networking Essentials, Basics, Addressing & Troubleshooting, Devices & Initial Configuration** — CISCO
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
 ## Featured Projects
