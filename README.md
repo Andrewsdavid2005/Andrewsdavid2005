@@ -1,92 +1,165 @@
-# Hi there, I'm Andrews Gnanaselvin D 👋
+<div align="center">
 
-<p align="center">
-  📱 +91 7010809105 &nbsp;|&nbsp;
-  📧 andrewsdavidnov@gmail.com &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/your-linkedin-id">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/Andrewsdavid2005">GitHub</a> &nbsp;|&nbsp;
-  <a href="https://andrewsdavid2005.github.io/portfolio/">Portfolio</a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C4CC&height=220&section=header&text=Andrews%20GnanaSelvin%20D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Network%20Engineering%20%7C%20Cloud%20Computing%20%7C%20Web%20Development&descAlignY=58&descSize=18" width="100%"/>
 
----
+<a href="https://andrewsdavid2005.github.io/portfolio/">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Smart+India+Hackathon+2025+Finalist;Taiwan+Hackathon+%E2%80%93+Certificate+of+Merit;AI+Trainer+%7C+Cloud+%26+Network+Enthusiast" alt="Typing SVG"/>
+</a>
 
-## Professional Summary
+<br>
 
-Computer Science and Engineering student with specializing in Network Engineering, Cloud Computing, and Web Development. Skilled in configuring secure network environments, managing cloud databases, and deploying AI-integrated applications. Proven track record as a Smart India Hackathon Finalist and AI Trainer, combining technical expertise with hands-on execution to build innovative, real-world systems.
+<img src="https://img.shields.io/badge/📍-Coimbatore,_Tamil_Nadu,_India-2C5364?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Andrewsdavid2005&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS"/>
 
----
+<br><br>
 
-## Education
+<a href="mailto:andrewsdavidnov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Andrewsdavid2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://andrewsdavid2005.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="tel:+917010809105"><img src="https://img.shields.io/badge/+91_7010809105-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-**Karpagam Institute of Technology, Coimbatore** — 2023–2027
-B.E – Computer Science and Engineering — CGPA: 7.69
+</div>
 
-**SFS Matriculation Higher Secondary School, Pudukkottai** — 2022–2023
-Higher Secondary — 70%
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
----
+## 🧭 Professional Summary
 
-## Skills
+Computer Science and Engineering student with specializing in **Network Engineering, Cloud Computing, and Web Development**. Skilled in configuring secure network environments, managing cloud databases, and deploying AI‑integrated applications. Proven track record as a **Smart India Hackathon Finalist** and **AI Trainer**, combining technical expertise with hands-on execution to build innovative, real-world systems.
 
-* **Networking & Security** — IP Routing, Firewalls, Network Protocols & Architecture
-* **Cloud & DevOps** — AWS (Lambda, EC2, S3), Azure, CI/CD Concepts
-* **Frontend & Web** — HTML, CSS, JavaScript, UI/UX Design, Flutter
-* **Backend & Databases** — APIs, Firebase, Supabase, MySQL, ML Kit Integration
-* **Design & Tools** — Git, GitHub, Figma, Canva, Linux, Cisco Packet Tracer
-* **Programming** — Python, Java, SQL, Dart
-* **Soft Skills** — NSS Camp Member, Adaptability, Team Work, Managing Tasks
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
----
+## 🎓 Education
 
-## Certifications
+| Institution | Duration | Detail |
+|---|---|---|
+| **Karpagam Institute of Technology**, Coimbatore | 2023 – 2027 | B.E. — Computer Science and Engineering \| CGPA: **7.69** |
+| **SFS Matriculation Higher Secondary School**, Pudukkottai | 2022 – 2023 | Higher Secondary — **70%** |
 
-* Microsoft Azure Fundamentals (AZ-900) Certificate
-* AWS Cloud Foundations Certificate
-* Simplilearn – Machine Learning Certificate
-* Deloitte – Data Analytics Simulation Certificate
-* NPTEL – Software Testing Certificate
-* CISCO – Networking Essentials, Basics, Addressing & Troubleshooting, Devices & Initial Configuration Certificate
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
----
+## 🛠️ Skills
 
-## Projects
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,java,dart,mysql,sqlite,html,css,js,flutter,figma,aws,azure,git,github,firebase,linux,vscode&theme=dark" />
+</div>
 
-### AI-Based Crop Recommendation for Farmers (SIH)
-* Developed an AI-powered system that analyzes soil nutrients (NPK, pH) and seasonal data to recommend the most profitable and high-yielding crops for farmers.
-* Engineered offline-first functionality to ensure farmers access agricultural insights without an internet connection.
-* **Tech:** Python & Machine Learning (Soil NPK/pH Analysis), ML, Flutter, Firebase
+<br>
 
-### Gamified Learning Environment
-* Built gamified platform with rewards and progress tracking. Upgraded the project to Android SDK 36 to leverage new platform features.
-* Integrated ML Kit and Supabase backend for real-time authentication and data management.
-* **Tech:** Flutter & Dart, Supabase (Auth & Database), Google ML Kit, Gradle (Kotlin DSL)
+| Category | Stack |
+|---|---|
+| 🌐 **Networking & Security** | IP Routing · Firewalls · Network Protocols & Architecture |
+| ☁️ **Cloud & DevOps** | AWS (Lambda, EC2, S3) · Azure · CI/CD Concepts |
+| 🎨 **Frontend & Web** | HTML · CSS · JavaScript · UI/UX Design · Flutter |
+| 🗄️ **Backend & Databases** | REST APIs · Firebase · Supabase · MySQL · Google ML Kit |
+| 🧰 **Design & Tools** | Git · GitHub · Figma · Canva · Linux · Cisco Packet Tracer |
+| 💻 **Programming** | Python · Java · SQL · Dart |
+| 🤝 **Soft Skills** | NSS Camp Member · Adaptability · Teamwork · Task Management |
 
-### Data Download Duplication Alert System
-* Developed a Data Download Duplication Alert System to identify and manage duplicate file downloads efficiently.
-* Implemented MD5 & SHA-256 hashing algorithms to accurately detect duplicate files and prevent redundant storage.
-* **Tech:** Python, SQLite, MD5, SHA-256
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
----
+## 📜 Certifications
 
-## Achievements
+<div align="center">
 
-* Smart India Hackathon 2025 — Finalist Certificate
-* Taiwan Hackathon — Certificate of Merit (Excellence) Certificate
-* International Conference Participant — KIT Certificate
+<img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals_(AZ--900)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Cloud_Foundations-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Simplilearn-Machine_Learning-1F8ACB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deloitte-Data_Analytics_Simulation-86BC25?style=flat-square"/>
+<img src="https://img.shields.io/badge/NPTEL-Software_Testing-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/CISCO-Networking_Essentials_%26_Troubleshooting-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
 
----
+</div>
 
-## Internship
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-* **SoftwareTech Solutions** — Program Development Internship — *Feb 2024*
-  Assisted in developing and testing software modules using programming concepts.
-* **ABM IT Support** — Web Development Internship — *Aug 2024*
-  Worked on responsive web pages and improved user interface functionality.
-* **Galwin Technology** — Machine Learning Internship — *May 2025*
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 AI-Based Crop Recommendation for Farmers *(SIH)*
+Developed an AI-powered system analyzing soil nutrients (NPK, pH) and seasonal data to recommend the most profitable, high-yielding crops. Engineered **offline-first** functionality so farmers can access insights without internet.
+
+`Python` `Machine Learning` `Flutter` `Firebase`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Gamified Learning Environment
+Built a gamified platform with rewards and progress tracking, upgraded to **Android SDK 36**. Integrated **Google ML Kit** and **Supabase** for real-time auth and data management.
+
+`Flutter & Dart` `Supabase` `Google ML Kit` `Gradle (Kotlin DSL)`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Data Download Duplication Alert System
+Developed a system to identify and manage duplicate downloads efficiently, using **MD5 & SHA-256** hashing to detect duplicates and prevent redundant storage.
+
+`Python` `SQLite` `MD5` `SHA-256`
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 Want to collaborate?
+Open to engineering projects, open-source work, and hackathon sprints — reach out via the links above.
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
+
+## 🏆 Achievements
+
+- 🥇 **Smart India Hackathon 2025** — National Finalist
+- 🎖️ **Taiwan Hackathon** — Certificate of Merit (Excellence)
+- 🎤 **International Conference Participant** — Scientific Presentation at KIT
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
+
+## 💼 Internship Experience
+
+- **Galwin Technology** — Machine Learning Intern *(May 2025)*
   Gained hands-on experience in machine learning models and data analysis.
+- **ABM IT Support** — Web Development Intern *(Aug 2024)*
+  Worked on responsive web pages and improved user interface functionality.
+- **SoftwareTech Solutions** — Program Development Intern *(Feb 2024)*
+  Assisted in developing and testing software modules using programming concepts.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-<p align="center">
-  <code>Learn</code> • <code>Build</code> • <code>Innovate</code> • <code>Repeat</code>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Andrewsdavid2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewsdavid2005&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrewsdavid2005&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Andrewsdavid2005&theme=tokyo-night&hide_border=true"/>
+</div>
+
+<!--
+  Snake contribution animation — requires a one-time GitHub Actions setup.
+  See the note below the footer for setup steps.
+-->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Andrewsdavid2005/Andrewsdavid2005/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:0F2027,100:00C4CC&height=120&section=footer"/>
+
+<div align="center">
+
+**`Learn`** • **`Build`** • **`Innovate`** • **`Repeat`**
+
+</div>
