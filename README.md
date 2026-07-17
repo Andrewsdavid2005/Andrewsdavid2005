@@ -60,12 +60,19 @@ Computer Science and Engineering student with specializing in **Network Engineer
 
 ## Certifications
 
-1. **Microsoft Azure Fundamentals (AZ-900)** — Microsoft Certified
-2. **AWS Cloud Foundations** — Amazon Web Services
-3. **Machine Learning** — Simplilearn
-4. **Data Analytics Simulation** — Deloitte
-5. **Software Testing** — NPTEL
-6. **Networking Essentials, Basics, Addressing & Troubleshooting, Devices & Initial Configuration** — CISCO
+<div align="center">
+<img src="https://img.shields.io/badge/1-Microsoft_Azure_Fundamentals_(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/2-AWS_Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/3-Machine_Learning_%E2%80%93_Simplilearn-1F8ACB?style=for-the-badge&logo=simplilearn&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/4-Data_Analytics_Simulation_%E2%80%93_Deloitte-86BC25?style=for-the-badge&logo=deloitte&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/5-Software_Testing_%E2%80%93_NPTEL-E34F26?style=for-the-badge&logo=e-learning&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/6-Networking_%2D_Essentials%2C_Addressing_%26_Troubleshooting_%E2%80%93_CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
 ## Featured Projects
