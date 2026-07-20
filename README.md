@@ -106,14 +106,7 @@ Developed a system to identify and manage duplicate downloads efficiently, using
 
 </td>
 <td width="50%" valign="top">
-
-### Want to collaborate?
-Open to engineering projects, open-source work, and hackathon sprints — reach out via the links above.
-
-</td>
-</tr>
-</table>
-
+  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
 ## Achievements
