@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/📍-Coimbatore,_Tamil_Nadu,_India-2C5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Coimbatore,_Tamil_Nadu,_India-2C5364?style=for-the-badge"/>
 <img src="https://komarev.com/ghpvc/?username=Andrewsdavid2005&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS"/>
 
 <br><br>
@@ -23,13 +23,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## 🧭 Professional Summary
+## Professional Summary
 
 Computer Science and Engineering student with specializing in **Network Engineering, Cloud Computing, and Web Development**. Skilled in configuring secure network environments, managing cloud databases, and deploying AI‑integrated applications. Proven track record as a **Smart India Hackathon Finalist** and **AI Trainer**, combining technical expertise with hands-on execution to build innovative, real-world systems.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## 🎓 Education
+## Education
 
 | Institution | Duration | Detail |
 |---|---|---|
@@ -38,7 +38,7 @@ Computer Science and Engineering student with specializing in **Network Engineer
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## 🛠️ Skills
+## Skills
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,java,dart,mysql,html,css,js,flutter,firebase,supabase,aws,azure,git,github,figma,linux&theme=dark" />
@@ -48,17 +48,17 @@ Computer Science and Engineering student with specializing in **Network Engineer
 
 | Category | Stack |
 |---|---|
-| 🌐 **Networking & Security** | IP Routing · Firewalls · Network Protocols & Architecture |
-| ☁️ **Cloud & DevOps** | AWS (Lambda, EC2, S3) · Azure · CI/CD Concepts |
-| 🎨 **Frontend & Web** | HTML · CSS · JavaScript · UI/UX Design · Flutter |
-| 🗄️ **Backend & Databases** | REST APIs · Firebase · Supabase · MySQL · Google ML Kit |
-| 🧰 **Design & Tools** | Git · GitHub · Figma · Canva · Linux · Cisco Packet Tracer |
-| 💻 **Programming** | Python · Java · SQL · Dart |
-| 🤝 **Soft Skills** | NSS Camp Member · Adaptability · Teamwork · Task Management |
+| **Networking & Security** | IP Routing · Firewalls · Network Protocols & Architecture |
+| **Cloud & DevOps** | AWS (Lambda, EC2, S3) · Azure · CI/CD Concepts |
+| **Frontend & Web** | HTML · CSS · JavaScript · UI/UX Design · Flutter |
+| **Backend & Databases** | REST APIs · Firebase · Supabase · MySQL · Google ML Kit |
+| **Design & Tools** | Git · GitHub · Figma · Canva · Linux · Cisco Packet Tracer |
+| **Programming** | Python · Java · SQL · Dart |
+| **Soft Skills** | NSS Camp Member · Adaptability · Teamwork · Task Management |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## 📜 Certifications
+## Certifications
 
 <div align="center">
 
@@ -78,13 +78,13 @@ Computer Science and Engineering student with specializing in **Network Engineer
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 AI-Based Crop Recommendation for Farmers *(SIH)*
+### AI-Based Crop Recommendation for Farmers *(SIH)*
 Developed an AI-powered system analyzing soil nutrients (NPK, pH) and seasonal data to recommend the most profitable, high-yielding crops. Engineered **offline-first** functionality so farmers can access insights without internet.
 
 `Python` `Machine Learning` `Flutter` `Firebase`
@@ -92,7 +92,7 @@ Developed an AI-powered system analyzing soil nutrients (NPK, pH) and seasonal d
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Gamified Learning Environment
+### Gamified Learning Environment
 Built a gamified platform with rewards and progress tracking, upgraded to **Android SDK 36**. Integrated **Google ML Kit** and **Supabase** for real-time auth and data management.
 
 `Flutter & Dart` `Supabase` `Google ML Kit` `Gradle (Kotlin DSL)`
@@ -102,7 +102,7 @@ Built a gamified platform with rewards and progress tracking, upgraded to **Andr
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Data Download Duplication Alert System
+### Data Download Duplication Alert System
 Developed a system to identify and manage duplicate downloads efficiently, using **MD5 & SHA-256** hashing to detect duplicates and prevent redundant storage.
 
 `Python` `SQLite` `MD5` `SHA-256`
@@ -110,7 +110,7 @@ Developed a system to identify and manage duplicate downloads efficiently, using
 </td>
 <td width="50%" valign="top">
 
-### 💡 Want to collaborate?
+### Want to collaborate?
 Open to engineering projects, open-source work, and hackathon sprints — reach out via the links above.
 
 </td>
@@ -119,15 +119,15 @@ Open to engineering projects, open-source work, and hackathon sprints — reach 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## 🏆 Achievements
+## Achievements
 
-- 🥇 **Smart India Hackathon 2025** — National Finalist
-- 🎖️ **Taiwan Hackathon** — Certificate of Merit (Excellence)
-- 🎤 **International Conference Participant** — Scientific Presentation at KIT
+- **Smart India Hackathon 2025** — National Finalist
+- **Taiwan Hackathon** — Certificate of Merit (Excellence)
+- **International Conference Participant** — Scientific Presentation at KIT
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## 💼 Internship Experience
+## Internship Experience
 
 - **Galwin Technology** — Machine Learning Intern *(May 2025)*
   Gained hands-on experience in machine learning models and data analysis.
