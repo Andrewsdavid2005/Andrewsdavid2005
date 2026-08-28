@@ -1,44 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C4CC&height=220&section=header&text=Andrews%20GnanaSelvin%20D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Network%20Engineering%20%7C%20Cloud%20%7C%20Secure%20Architecture&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0A1128,50:1C2541,100:3A506B&height=200&section=header&text=Andrews%20GnanaSelvin%20D&fontSize=40&fontColor=E8ECF1&fontAlignY=42&desc=Network%20Engineering%20%C2%B7%20Cloud%20Infrastructure%20%C2%B7%20Secure%20Architecture&descAlignY=62&descSize=16&descColor=A9B7C6" width="100%"/>
 
-<a href="https://andrewsdavid2005.github.io/portfolio/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%7C+Network+Engineering;Cisco-Trained+%7C+IP+Routing+%26+Firewalls;Smart+India+Hackathon+2025+Finalist;AI+Trainer+%7C+Cloud-Connected+Networks" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&weight=500&size=20&duration=3500&pause=900&color=3A506B&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Aspiring+Network+Engineer+%7C+Cisco-Trained;Smart+India+Hackathon+2025+Finalist;AI+Trainer+%7C+Cloud-Connected+Network+Design" alt="Typing SVG"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/📍-Coimbatore,_Tamil_Nadu,_India-2C5364?style=for-the-badge"/>
-<img src="https://komarev.com/ghpvc/?username=Andrewsdavid2005&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS"/>
+`Coimbatore, Tamil Nadu, India`
 
-<br><br>
-
-<a href="mailto:andrewsdavidnov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Andrewsdavid2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://andrewsdavid2005.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="tel:+917010809105"><img src="https://img.shields.io/badge/+91_7010809105-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="mailto:andrewsdavidnov@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1C2541?style=flat-square&logo=gmail&logoColor=E8ECF1"/></a>
+<a href="https://linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LINKEDIN-1C2541?style=flat-square&logo=linkedin&logoColor=E8ECF1"/></a>
+<a href="https://github.com/Andrewsdavid2005"><img src="https://img.shields.io/badge/GITHUB-1C2541?style=flat-square&logo=github&logoColor=E8ECF1"/></a>
+<a href="https://andrewsdavid2005.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-1C2541?style=flat-square&logo=vercel&logoColor=E8ECF1"/></a>
+<a href="tel:+917010809105"><img src="https://img.shields.io/badge/+91_7010809105-1C2541?style=flat-square&logo=whatsapp&logoColor=E8ECF1"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
+<br>
 
-## 🧭 Professional Summary
+## Professional Summary
 
 Computer Science student pursuing a career in **Network Engineering**, with hands-on experience in IP routing, firewalls, and secure network architecture using Cisco Packet Tracer. Cisco-trained in networking essentials, troubleshooting, and device configuration, with additional **Azure** and **AWS** certifications for cloud-connected networks. **Smart India Hackathon 2025 Finalist** and **Taiwan Hackathon Certificate of Merit** recipient; also works as an **AI Trainer**.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
+<br>
 
-## 🎓 Education
+## Education
 
-| Institution | Duration | Detail |
-|---|---|---|
-| **Karpagam Institute of Technology**, Coimbatore | 2023 – 2027 | B.E. — Computer Science and Engineering \| CGPA: **7.69** |
-| **SFS Matriculation Higher Secondary School**, Pudukkottai | 2022 – 2023 | Higher Secondary — **70%** |
+<table>
+<tr><th align="left">Institution</th><th align="left">Duration</th><th align="left">Detail</th></tr>
+<tr><td>Karpagam Institute of Technology, Coimbatore</td><td>2023 – 2027</td><td>B.E. Computer Science and Engineering — CGPA: 7.69</td></tr>
+<tr><td>SFS Matriculation Higher Secondary School, Pudukkottai</td><td>2022 – 2023</td><td>Higher Secondary — 70%</td></tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
+<br>
 
-## 🛠️ Skills
+## Skills
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=aws,azure,git,github,linux&theme=dark" />
@@ -46,100 +42,68 @@ Computer Science student pursuing a career in **Network Engineering**, with hand
 
 <br>
 
-| Category | Stack |
-|---|---|
-| 🌐 **IP Routing & Switching** | Routing Protocols · VLANs · Subnetting · Network Addressing |
-| 🔒 **Network Security** | Firewalls · Secure Network Design · Access Control Fundamentals |
-| 📡 **Network Protocols & Architecture** | TCP/IP · LAN/WAN Design and Troubleshooting |
-| ☁️ **Cloud & DevOps** | AWS (Lambda, EC2, S3) · Azure · CI/CD Concepts |
-| 🧰 **Design & Tools** | Git · GitHub · XAMPP · ngrok · Linux · Cisco Packet Tracer |
-
-<sub>*XAMPP, ngrok, and Cisco Packet Tracer have no dedicated icon on the icon set used above, so they're listed here as text.*</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
-
-## 📜 Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/1-CISCO_Networking_Essentials_%26_Troubleshooting-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/2-Microsoft_Azure_Fundamentals_(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/3-AWS_Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/4-Machine_Learning_%E2%80%93_Simplilearn-1F8ACB?style=for-the-badge&logo=simplilearn&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/5-Data_Analytics_Simulation_%E2%80%93_Deloitte-86BC25?style=for-the-badge&logo=deloitte&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/6-Software_Testing_%E2%80%93_NPTEL-E34F26?style=for-the-badge&logo=e-learning&logoColor=white"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
-
-## 🚀 Featured Projects
-
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌾 AI-Based Crop Recommendation for Farmers *(SIH)*
-Developed an AI-powered system analyzing soil nutrients (NPK, pH) and seasonal data to recommend the most profitable, high-yielding crops. Engineered **offline-first** functionality so farmers can access insights without internet.
-
-`Python` `Flutter` `Firebase` `OpenWeather API`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎮 Gamified Learning Environment
-Built a gamified platform with rewards and progress tracking, upgraded to **Android SDK 36**. Integrated **Google ML Kit** and **Supabase** for real-time authentication and data management.
-
-`Dart` `Flutter` `Supabase` `Google ML Kit` `Flame Engine (2D)`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 Data Download Duplication Alert System
-Developed a system to identify and manage duplicate file downloads efficiently, using **MD5 & SHA-256** hashing to detect duplicates and prevent redundant storage.
-
-`Python` `JavaScript` `Web Crypto API` `Node.js/Express`
-
-</td>
-<td width="50%" valign="top">
-
-### 💡 Want to collaborate?
-Open to engineering projects, open-source work, and hackathon sprints — reach out via the links above.
-
-</td>
-</tr>
+<tr><th align="left" width="30%">Category</th><th align="left">Stack</th></tr>
+<tr><td>IP Routing &amp; Switching</td><td>Routing Protocols, VLANs, Subnetting, Network Addressing</td></tr>
+<tr><td>Network Security</td><td>Firewalls, Secure Network Design, Access Control Fundamentals</td></tr>
+<tr><td>Network Protocols &amp; Architecture</td><td>TCP/IP, LAN/WAN Design and Troubleshooting</td></tr>
+<tr><td>Cloud &amp; DevOps</td><td>AWS (Lambda, EC2, S3), Azure, CI/CD Concepts</td></tr>
+<tr><td>Design &amp; Tools</td><td>Git, GitHub, XAMPP, ngrok, Linux, Cisco Packet Tracer</td></tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
+<br>
 
-## 🏆 Achievements
+## Certifications
 
-- 🥇 **Smart India Hackathon 2025** — National Finalist
-- 🎖️ **Taiwan Hackathon** — Certificate of Merit (Excellence)
-- 🎤 **International Conference Participant** — Scientific Presentation at KIT
+<table>
+<tr><th align="center" width="8%">#</th><th align="left">Certification</th><th align="left">Issuer</th></tr>
+<tr><td align="center">1</td><td>Networking Essentials, Basics, Addressing &amp; Troubleshooting, Devices &amp; Initial Configuration</td><td>CISCO</td></tr>
+<tr><td align="center">2</td><td>Microsoft Azure Fundamentals (AZ-900)</td><td>Microsoft</td></tr>
+<tr><td align="center">3</td><td>AWS Cloud Foundations</td><td>Amazon Web Services</td></tr>
+<tr><td align="center">4</td><td>Machine Learning</td><td>Simplilearn</td></tr>
+<tr><td align="center">5</td><td>Data Analytics Simulation</td><td>Deloitte</td></tr>
+<tr><td align="center">6</td><td>Software Testing</td><td>NPTEL</td></tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
+<br>
 
-## 💼 Internship Experience
+## Featured Projects
 
-- **Galwin Technology** — Machine Learning Intern *(May 2025)*
-  Gained hands-on experience in machine learning models and data analysis.
-- **ABM IT Support** — Web Development Intern *(Aug 2024)*
-  Worked on responsive web pages and improved user interface functionality.
-- **SoftwareTech Solutions** — Program Development Intern *(Feb 2024)*
-  Assisted in developing and testing software modules using programming concepts.
+**AI-Based Crop Recommendation for Farmers** — *Smart India Hackathon*
+Developed an AI-powered system that analyzes soil nutrients (NPK, pH) and seasonal data to recommend the most profitable and high-yielding crops for farmers. Engineered offline-first functionality so farmers can access agricultural insights without an internet connection.
+`Python` · `Flutter` · `Firebase` · `OpenWeather API`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:0F2027,100:00C4CC&height=120&section=footer"/>
+**Gamified Learning Environment**
+Built a gamified platform with rewards and progress tracking, upgraded to Android SDK 36. Integrated Google ML Kit and Supabase for real-time authentication and data management.
+`Dart` · `Flutter` · `Supabase` · `Google ML Kit` · `Flame Engine (2D)`
+
+**Data Download Duplication Alert System**
+Developed a system to identify and manage duplicate file downloads efficiently, using MD5 & SHA-256 hashing to detect duplicates and prevent redundant storage.
+`Python` · `JavaScript` · `Web Crypto API` · `Node.js/Express`
+
+<br>
+
+## Achievements
+
+- Smart India Hackathon 2025 — National Finalist
+- Taiwan Hackathon — Certificate of Merit (Excellence)
+- International Conference Participant — Scientific Presentation at KIT
+
+<br>
+
+## Internship Experience
+
+<table>
+<tr><th align="left" width="28%">Organization</th><th align="left" width="20%">Role</th><th align="left" width="15%">Duration</th><th align="left">Summary</th></tr>
+<tr><td>Galwin Technology</td><td>Machine Learning Intern</td><td>May 2025</td><td>Gained hands-on experience in machine learning models and data analysis.</td></tr>
+<tr><td>ABM IT Support</td><td>Web Development Intern</td><td>Aug 2024</td><td>Worked on responsive web pages and improved user interface functionality.</td></tr>
+<tr><td>SoftwareTech Solutions</td><td>Program Development Intern</td><td>Feb 2024</td><td>Assisted in developing and testing software modules using programming concepts.</td></tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:3A506B,50:1C2541,100:0A1128&height=100&section=footer" width="100%"/>
 
 <div align="center">
-
-**`Learn`** • **`Build`** • **`Innovate`** • **`Repeat`**
-
+<sub>Learn · Build · Innovate · Repeat</sub>
 </div>
