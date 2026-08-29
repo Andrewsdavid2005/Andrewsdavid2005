@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/-Coimbatore,_Tamil_Nadu,_India-2C5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📍-Coimbatore,_Tamil_Nadu,_India-2C5364?style=for-the-badge"/>
 <img src="https://komarev.com/ghpvc/?username=Andrewsdavid2005&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS"/>
 
 <br><br>
@@ -23,13 +23,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## Professional Summary
+## 🧭 Professional Summary
 
 Computer Science student pursuing a career in **Network Engineering**, with hands-on experience in IP routing, firewalls, and secure network architecture using Cisco Packet Tracer. Cisco-trained in networking essentials, troubleshooting, and device configuration, with additional **Azure** and **AWS** certifications for cloud-connected networks. **Smart India Hackathon 2025 Finalist** and **Taiwan Hackathon Certificate of Merit** recipient; also works as an **AI Trainer**.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## Education
+## 🎓 Education
 
 | Institution | Duration | Detail |
 |---|---|---|
@@ -38,27 +38,28 @@ Computer Science student pursuing a career in **Network Engineering**, with hand
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## Skills
+## 🛠️ Skills
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,git,github,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,azure,git,github,linux,py&theme=dark" />
 </div>
 
 <br>
 
 | Category | Stack |
 |---|---|
-| **IP Routing & Switching** | Routing Protocols · VLANs · Subnetting · Network Addressing |
-| **Network Security** | Firewalls · Secure Network Design · Access Control Fundamentals |
-| **Network Protocols & Architecture** | TCP/IP · LAN/WAN Design and Troubleshooting |
-| **Cloud & DevOps** | AWS (Lambda, EC2, S3) · Azure · CI/CD Concepts |
-| **Design & Tools** | Git · GitHub · XAMPP · ngrok · Linux · Cisco Packet Tracer |
+| 🌐 **IP Routing & Switching** | Routing Protocols · VLANs · Subnetting · Network Addressing |
+| 🔒 **Network Security** | Firewalls · Secure Network Design · Access Control Fundamentals |
+| 📡 **Network Protocols & Architecture** | TCP/IP · LAN/WAN Design and Troubleshooting |
+| ☁️ **Cloud & DevOps** | AWS (Lambda, EC2, S3) · Azure · CI/CD Concepts |
+| 🧰 **Design & Tools** | Git · GitHub · XAMPP · ngrok · Linux · Cisco Packet Tracer |
+| 💻 **Programming** | Python · SQL |
 
 <sub>*XAMPP, ngrok, and Cisco Packet Tracer have no dedicated icon on the icon set used above, so they're listed here as text.*</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## Certifications
+## 📜 Certifications
 
 <div align="center">
 
@@ -78,13 +79,13 @@ Computer Science student pursuing a career in **Network Engineering**, with hand
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### AI-Based Crop Recommendation for Farmers *(SIH)*
+### 🌾 AI-Based Crop Recommendation for Farmers *(SIH)*
 Developed an AI-powered system analyzing soil nutrients (NPK, pH) and seasonal data to recommend the most profitable, high-yielding crops. Engineered **offline-first** functionality so farmers can access insights without internet.
 
 `Python` `Flutter` `Firebase` `OpenWeather API`
@@ -92,7 +93,7 @@ Developed an AI-powered system analyzing soil nutrients (NPK, pH) and seasonal d
 </td>
 <td width="50%" valign="top">
 
-### Gamified Learning Environment
+### 🎮 Gamified Learning Environment
 Built a gamified platform with rewards and progress tracking, upgraded to **Android SDK 36**. Integrated **Google ML Kit** and **Supabase** for real-time authentication and data management.
 
 `Dart` `Flutter` `Supabase` `Google ML Kit` `Flame Engine (2D)`
@@ -102,7 +103,7 @@ Built a gamified platform with rewards and progress tracking, upgraded to **Andr
 <tr>
 <td width="50%" valign="top">
 
-### Data Download Duplication Alert System
+### 🔐 Data Download Duplication Alert System
 Developed a system to identify and manage duplicate file downloads efficiently, using **MD5 & SHA-256** hashing to detect duplicates and prevent redundant storage.
 
 `Python` `JavaScript` `Web Crypto API` `Node.js/Express`
@@ -110,7 +111,7 @@ Developed a system to identify and manage duplicate file downloads efficiently, 
 </td>
 <td width="50%" valign="top">
 
-### Want to collaborate?
+### 💡 Want to collaborate?
 Open to engineering projects, open-source work, and hackathon sprints — reach out via the links above.
 
 </td>
@@ -119,15 +120,15 @@ Open to engineering projects, open-source work, and hackathon sprints — reach 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## Achievements
+## 🏆 Achievements
 
-- **Smart India Hackathon 2025** — National Finalist
-- **Taiwan Hackathon** — Certificate of Merit (Excellence)
-- **International Conference Participant** — Scientific Presentation at KIT
+- 🥇 **Smart India Hackathon 2025** — National Finalist
+- 🎖️ **Taiwan Hackathon** — Certificate of Merit (Excellence)
+- 🎤 **International Conference Participant** — Scientific Presentation at KIT
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## Internship Experience
+## 💼 Internship Experience
 
 - **Galwin Technology** — Machine Learning Intern *(May 2025)*
   Gained hands-on experience in machine learning models and data analysis.
