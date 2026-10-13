@@ -3,12 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C4CC&height=220&section=header&text=Andrews%20GnanaSelvin%20D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Network%20Engineering%20%7C%20Cloud%20%7C%20Secure%20Architecture&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://andrewsdavid2005.github.io/portfolio/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%7C+Network+Engineering;Cisco-Trained+%7C+IP+Routing+%26+Firewalls;Smart+India+Hackathon+2025+Finalist;AI+Trainer+%7C+Cloud-Connected+Networks" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%7C+Network+Engineering;Cisco-Trained+%7C+Routing%2C+Switching%2C+OSPF;Python+%2B+Netmiko+Network+Automation;Smart+India+Hackathon+2025+Finalist" alt="Typing SVG"/>
 </a>
 
 <br>
 
-<img src="https://img.shields.io/badge/-Coimbatore,_Tamil_Nadu,_India-2C5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📍-Coimbatore,_Tamil_Nadu,_India-2C5364?style=for-the-badge"/>
 <img src="https://komarev.com/ghpvc/?username=Andrewsdavid2005&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS"/>
 
 <br><br>
@@ -23,13 +23,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## Professional Summary
+## 🧭 Professional Summary
 
 Computer Science student pursuing **Network Engineering**, with hands-on experience in Routing, Switching, VLANs, OSPF, Network Security, and Troubleshooting using Cisco Packet Tracer. Skilled in **Python, Netmiko, and Network Automation** for device connectivity, health monitoring, configuration backups, and reporting, with **Azure** and **AWS** certifications. **Smart India Hackathon 2025 Finalist** and **Taiwan Hackathon Certificate of Merit** recipient.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## Education
+## 🎓 Education
 
 | Institution | Duration | Detail |
 |---|---|---|
@@ -38,27 +38,27 @@ Computer Science student pursuing **Network Engineering**, with hands-on experie
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## Skills
+## 🛠️ Skills
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,git,github,linux,py&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,linux,py&theme=dark" />
 </div>
 
 <br>
 
 | Category | Stack |
 |---|---|
-| **Networking** | IP Routing & Switching · VLANs · Subnetting · Network Addressing · Routing Protocols · TCP/IP · LAN/WAN · Network Troubleshooting |
-| **Network Security** | Firewalls · Access Control · Secure Network Design |
-| **Cloud** | Microsoft Azure · AWS · EC2 · S3 · Lambda · CI/CD |
-| **Programming & Automation** | Python · Netmiko · Paramiko |
-| **Design & Tools** | Cisco Packet Tracer · Git · GitHub · Linux · XAMPP · ngrok |
+| 🌐 **Networking** | IP Routing & Switching · VLANs · Subnetting · Network Addressing · Routing Protocols · TCP/IP · LAN/WAN · Network Troubleshooting |
+| 🔒 **Network Security** | Firewalls · Access Control · Secure Network Design |
+| ☁️ **Cloud** | Microsoft Azure · AWS · EC2 · S3 · Lambda · Docker |
+| 💻 **Programming & Automation** | Python · Netmiko · Paramiko |
+| 🧰 **Design & Tools** | Cisco Packet Tracer · Git · GitHub · Linux · XAMPP |
 
-<sub>*XAMPP, ngrok, and Cisco Packet Tracer have no dedicated icon on the icon set used above, so they're listed here as text.*</sub>
+<sub>*XAMPP and Cisco Packet Tracer have no dedicated icon on the icon set used above, so they're listed here as text.*</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## Certifications
+## 📜 Certifications
 
 <div align="center">
 
@@ -68,32 +68,30 @@ Computer Science student pursuing **Network Engineering**, with hands-on experie
 <br>
 <img src="https://img.shields.io/badge/3-AWS_Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/4-Machine_Learning_%E2%80%93_Simplilearn-1F8ACB?style=for-the-badge&logo=simplilearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/4-Data_Analytics_Simulation_%E2%80%93_Deloitte-86BC25?style=for-the-badge&logo=deloitte&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/5-Data_Analytics_Simulation_%E2%80%93_Deloitte-86BC25?style=for-the-badge&logo=deloitte&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/6-Software_Testing_%E2%80%93_NPTEL-E34F26?style=for-the-badge&logo=e-learning&logoColor=white"/>
+<img src="https://img.shields.io/badge/5-Software_Testing_%E2%80%93_NPTEL-E34F26?style=for-the-badge&logo=e-learning&logoColor=white"/>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### AI-Based Crop Recommendation for Farmers *(SIH)*
-Developed an AI-powered application using Python and Machine Learning to analyze soil nutrients (NPK, pH) and seasonal data for crop recommendation. Implemented **offline-first** functionality to provide agricultural insights without an internet connection.
+### 🛡️ TechNova Network Automation & Security Platform *(Cisco Packet Tracer & Python)*
+Developed Python scripts for network monitoring, health checks, alerts, and reporting. Configured SSH on four Cisco devices and created sample configuration backups.
 
-`Python` `Flutter` `Firebase` `OpenWeather API`
+`Python` `Cisco Packet Tracer` `Netmiko` `CSV` `Git` `SSH` `VLANs` `OSPF` `HSRP` `ASA Firewall`
 
 </td>
 <td width="50%" valign="top">
 
-### Enterprise Network Automation Lab *(Cisco Packet Tracer & Python)*
-Built a multi-site enterprise network with VLANs, Inter-VLAN Routing, OSPF, HSRP, STP, DHCP, DNS, SSH, ACLs & Port Security. Automated device connectivity, health checks, OSPF monitoring, configuration backups, and reporting using Python + Netmiko.
+### 🖧 Enterprise Network Automation Lab *(Cisco Packet Tracer & Python)*
+Built a multi-site enterprise network with VLANs, Inter-VLAN Routing, OSPF, HSRP, STP, DHCP, DNS, SSH, ACLs & Port Security. Automated device connectivity, health checks, OSPF monitoring, configuration backups, and reporting.
 
 `Python` `Netmiko` `OSPF` `VLAN` `HSRP` `STP` `DHCP` `DNS` `SSH` `ACL`
 
@@ -102,15 +100,15 @@ Built a multi-site enterprise network with VLANs, Inter-VLAN Routing, OSPF, HSRP
 <tr>
 <td width="50%" valign="top">
 
-### Data Download Duplication Alert System
-Developed a system to identify and manage duplicate file downloads efficiently. Implemented **MD5 and SHA-256** hashing using the Web Crypto API to detect duplicate files and prevent redundant storage.
+### 🌾 AI-Based Crop Recommendation for Farmers *(SIH)*
+Developed an AI-powered application using Python and Machine Learning to analyze soil nutrients and seasonal data for crop recommendation. Implemented **offline-first** functionality to provide agricultural insights without an internet connection.
 
-`Python` `JavaScript` `Web Crypto API` `Node.js` `Express`
+`Python` `Flutter` `Firebase` `OpenWeather API`
 
 </td>
 <td width="50%" valign="top">
 
-### Want to collaborate?
+### 💡 Want to collaborate?
 Open to engineering projects, open-source work, and hackathon sprints — reach out via the links above.
 
 </td>
@@ -119,15 +117,15 @@ Open to engineering projects, open-source work, and hackathon sprints — reach 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## Achievements
+## 🏆 Achievements
 
-- **Smart India Hackathon 2025** — National Finalist
-- **Taiwan Hackathon** — Certificate of Merit (Excellence)
-- **International Conference Participant** — Scientific Presentation at KIT
+- 🥇 **Smart India Hackathon 2025** — National Finalist
+- 🎖️ **Taiwan Hackathon** — Certificate of Merit (Excellence)
+- 🎤 **International Conference Participant** — Scientific Presentation at KIT
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## Internship Experience
+## 💼 Internship Experience
 
 - **Galwin Technology** — Machine Learning Intern *(May 2025)*
   Worked with machine learning models and data analysis techniques.
