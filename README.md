@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/📍-Coimbatore,_Tamil_Nadu,_India-2C5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Coimbatore,_Tamil_Nadu,_India-2C5364?style=for-the-badge"/>
 <img src="https://komarev.com/ghpvc/?username=Andrewsdavid2005&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS"/>
 
 <br><br>
@@ -23,13 +23,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## 🧭 Professional Summary
+## Professional Summary
 
 Computer Science student specializing in **Network Engineering**, with hands-on experience in Routing, Switching, VLANs, OSPF, HSRP and Network Security using Cisco Packet Tracer. Skilled in **Python and Netmiko** for Network Automation: connectivity checks, health monitoring, configuration backups and reporting. **Azure (AZ-900)** and **AWS** certified. **Smart India Hackathon 2025 Finalist**.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## 🎓 Education
+## Education
 
 | Institution | Duration | Detail |
 |---|---|---|
@@ -38,7 +38,7 @@ Computer Science student specializing in **Network Engineering**, with hands-on 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## 🛠️ Skills
+## Skills
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=aws,azure,git,github,linux,py&theme=dark" />
@@ -48,16 +48,16 @@ Computer Science student specializing in **Network Engineering**, with hands-on 
 
 | Category | Stack |
 |---|---|
-| 🌐 **Networking** | IP Routing & Switching · VLANs · Inter-VLAN Routing · OSPF · HSRP · STP · DHCP · DNS · Subnetting · TCP/IP · LAN/WAN · Troubleshooting |
-| 🔒 **Network Security** | ASA Firewall · ACLs · Port Security · SSH · Secure Network Design |
-| 💻 **Automation & Programming** | Python · Netmiko · Paramiko · Git · GitHub |
-| ☁️ **Cloud & Tools** | Microsoft Azure · AWS (EC2, S3, Lambda) · Linux · Cisco Packet Tracer |
+| **Networking** | IP Routing & Switching · VLANs · Inter-VLAN Routing · OSPF · HSRP · STP · DHCP · DNS · Subnetting · TCP/IP · LAN/WAN · Troubleshooting |
+| **Network Security** | ASA Firewall · ACLs · Port Security · SSH · Secure Network Design |
+| **Automation & Programming** | Python · Netmiko · Paramiko · Git · GitHub |
+| **Cloud & Tools** | Microsoft Azure · AWS (EC2, S3, Lambda) · Linux · Cisco Packet Tracer |
 
 <sub>*Cisco Packet Tracer has no dedicated icon on the icon set used above, so it's listed here as text.*</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## 📜 Certifications
+## Certifications
 
 <div align="center">
 
@@ -73,13 +73,13 @@ Computer Science student specializing in **Network Engineering**, with hands-on 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ TechNova Network Automation & Security Platform *(Cisco Packet Tracer, Python, Netmiko)*
+### TechNova Network Automation & Security Platform *(Cisco Packet Tracer, Python, Netmiko)*
 Developed Python scripts for network monitoring, health checks, alerts and reporting. Configured SSH on four Cisco devices and automated configuration backups. Implemented VLANs, OSPF, HSRP and ASA Firewall.
 
 `Python` `Cisco Packet Tracer` `Netmiko` `SSH` `VLANs` `OSPF` `HSRP` `ASA Firewall`
@@ -87,7 +87,7 @@ Developed Python scripts for network monitoring, health checks, alerts and repor
 </td>
 <td width="50%" valign="top">
 
-### 🖧 Enterprise Network Automation Lab *(Cisco Packet Tracer, Python, Netmiko)*
+### Enterprise Network Automation Lab *(Cisco Packet Tracer, Python, Netmiko)*
 Built a multi-site enterprise network with VLANs, Inter-VLAN Routing, OSPF, HSRP, STP, DHCP, DNS, SSH, ACLs and Port Security. Automated device connectivity, health checks, OSPF monitoring, configuration backups and reporting.
 
 `Python` `Cisco Packet Tracer` `Netmiko` `OSPF` `VLAN` `HSRP` `STP` `DHCP` `DNS` `SSH` `ACL`
@@ -97,7 +97,7 @@ Built a multi-site enterprise network with VLANs, Inter-VLAN Routing, OSPF, HSRP
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 AI-Based Crop Recommendation for Farmers *(SIH 2025 Finalist)*
+### AI-Based Crop Recommendation for Farmers *(SIH 2025 Finalist)*
 Built a machine learning app that analyzes soil nutrients and seasonal data to recommend crops, with **offline-first** functionality to provide agricultural insights without an internet connection.
 
 `Python` `Flutter` `Firebase` `OpenWeather API`
@@ -105,7 +105,7 @@ Built a machine learning app that analyzes soil nutrients and seasonal data to r
 </td>
 <td width="50%" valign="top">
 
-### 💡 Want to collaborate?
+### Want to collaborate?
 Open to engineering projects, open-source work, and hackathon sprints — reach out via the links above.
 
 </td>
@@ -114,14 +114,14 @@ Open to engineering projects, open-source work, and hackathon sprints — reach 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## 🏆 Achievements
+## Achievements
 
-- 🥇 **Smart India Hackathon 2025** — National Finalist
-- 🎖️ **Taiwan Hackathon** — Certificate of Merit (Excellence)
+- **Smart India Hackathon 2025** — National Finalist
+- **Taiwan Hackathon** — Certificate of Merit (Excellence)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
-## 💼 Internship Experience
+## Internship Experience
 
 - **Galwin Technology** — Machine Learning Intern *(May 2025)*
   Worked with machine learning models and data analysis techniques.
